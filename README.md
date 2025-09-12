@@ -76,9 +76,11 @@
 ###
 
 <h3 align="left">📫 Contact Me:</h3>
-- Discord: `_alexjsm`
-- Email: `alexander@example.com`
-- LinkedIn: [linkedin.com/in/alexandersuazo](www.linkedin.com/in/alexander-suazo-44566b276)
+- Discord: **_alexjsm**
+<br>
+- Email: **alexander@example.com**
+<br>
+- LinkedIn: **[linkedin.com/in/alexandersuazo](www.linkedin.com/in/alexander-suazo-44566b276)**
 
 ###
 
