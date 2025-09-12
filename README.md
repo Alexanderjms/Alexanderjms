@@ -77,12 +77,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexanderjms/Alexanderjms/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alexanderjms/Alexanderjms/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alexanderjms/Alexanderjms/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 <img align="left" height="200" src="https://i.pinimg.com/1200x/c6/d6/91/c6d6916184b680b2a2d6c93341dff6c8.jpg"  />
