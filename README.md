@@ -76,9 +76,9 @@
 ###
 
 <h3 align="left">📫 Contact Me:</h3>
-Discord: ***_alexjsm***
+Discord: _alexjsm
 <br>
-Email: ***alexander@example.com***
+Email: alexqnder0318@gmail.com
 <br>
 LinkedIn: ***[linkedin.com/in/alexandersuazo](www.linkedin.com/in/alexander-suazo-44566b276)***
 
