@@ -75,19 +75,30 @@
 
 ###
 
-<div align="center">
-  <a href="alexqnder0318@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/alexander-suazo-44566b276" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexanderjms/Alexanderjms/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alexanderjms/Alexanderjms/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alexanderjms/Alexanderjms/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
-<br clear="both">
+<img align="left" height="200" src="https://i.pinimg.com/1200x/c6/d6/91/c6d6916184b680b2a2d6c93341dff6c8.jpg"  />
 
-<img src="https://raw.githubusercontent.com/Alexanderjms/Alexanderjms/output/snake.svg" alt="Snake animation" />
+###
+
+<img align="left" height="200" src="https://i.pinimg.com/originals/99/43/74/994374c6c7dd509cf356cc1f24b40936.gif"  />
+
+###
+
+<img align="left" height="200" src="https://i.pinimg.com/originals/69/3f/a2/693fa2d73acc65ca6e4796ae18fdcc0a.gif"  />
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/736x/31/de/be/31debe06dde4ed9d0e405102d04627ae.jpg"  />
+</div>
 
 ###
