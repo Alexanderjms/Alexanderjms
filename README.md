@@ -1,7 +1,4 @@
 <h2 align="left">!Hello 👋 I'm Alexander Suazo, passionate about coding, web apps, and continuous learning :]</h2>
-<br clear="both">
-
-###
 
 <div align="center">
   <!-- GitHub Stats -->
