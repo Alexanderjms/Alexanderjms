@@ -78,7 +78,7 @@
   LinkedIn: **[linkedin.com/in/alexandersuazo](https://www.linkedin.com/in/alexander-suazo-44566b276)**
 </div>
 
-<h3 align="left">🎨 Fun & Inspiration:</h3>
+<h3 align="left">🎨 So me:</h3>
 <div style="border: 1px solid #ccc; padding: 15px; border-radius: 10px; margin-bottom: 20px;" align="left">
   <img align="left" height="150" src="https://i.pinimg.com/1200x/c6/d6/91/c6d6916184b680b2a2d6c93341dff6c8.jpg"  />
   <img align="left" height="150" src="https://i.pinimg.com/originals/69/3f/a2/693fa2d73acc65ca6e4796ae18fdcc0a.gif"  />
