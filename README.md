@@ -1,15 +1,15 @@
 <h2 align="left">!Hello 👋 I'm Alexander Suazo, passionate about coding, web apps, and continuous learning :]</h2>
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://streak-stats.demolab.com?user=Alexanderjms&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexanderjms&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div style="border: 1px solid #ccc; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
+  <div align="center">
+    <!-- GitHub Stats -->
+    <img src="https://streak-stats.demolab.com?user=Alexanderjms&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexanderjms&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  </div>
 </div>
 
-<br clear="both">
-
 <h3 align="left">💻 What I Know:</h3>
-<div align="left">
+<div style="border: 1px solid #ccc; padding: 15px; border-radius: 10px; margin-bottom: 20px;" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
@@ -71,19 +71,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" />
 </div>
 
-###
-
 <h3 align="left">📫 Contact Me:</h3>
-Discord: _alexjsm
-<br>
-Email: alexqnder0318@gmail.com
-<br>
-LinkedIn: ***[linkedin.com/in/alexandersuazo](www.linkedin.com/in/alexander-suazo-44566b276)***
-
-###
+<div style="border: 1px solid #ccc; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
+  Discord: _alexjsm_ <br>
+  Email: alexqnder0318@gmail.com <br>
+  LinkedIn: **[linkedin.com/in/alexandersuazo](https://www.linkedin.com/in/alexander-suazo-44566b276)**
+</div>
 
 <h3 align="left">🎨 Fun & Inspiration:</h3>
-<div align="left">
+<div style="border: 1px solid #ccc; padding: 15px; border-radius: 10px; margin-bottom: 20px;" align="left">
   <img align="left" height="150" src="https://i.pinimg.com/1200x/c6/d6/91/c6d6916184b680b2a2d6c93341dff6c8.jpg"  />
   <img align="left" height="150" src="https://i.pinimg.com/originals/69/3f/a2/693fa2d73acc65ca6e4796ae18fdcc0a.gif"  />
   <img align="left" height="150" src="https://i.pinimg.com/736x/31/de/be/31debe06dde4ed9d0e405102d04627ae.jpg"  />
