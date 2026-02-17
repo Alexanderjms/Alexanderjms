@@ -68,7 +68,7 @@
 <h3 align="left">📫 Contact Me:</h3>
 <div style="border: 1px solid #ccc; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
   Discord: _alexjsm_ <br>
-  Email: alexqnder0318@gmail.com <br>
+  Email: aleexqnder7919@gmail.com <br>
   LinkedIn: https://www.linkedin.com/in/alexander-suazo-44566b276
 </div>
 
