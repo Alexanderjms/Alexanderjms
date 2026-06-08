@@ -17,65 +17,65 @@
 ### Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="30" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" />
 </p>
 
 ### Backend & Databases
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/django/092E20" height="30" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" />
 </p>
 
 ### DevOps & Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/github/181717" height="30" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/gitlab/FCA121" height="30" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="30" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" />
 </p>
 
 ### Productivity & Design
 
 <p>
-  <img src="https://cdn.simpleicons.org/notion/000000" height="30" />
+  <img src="https://cdn.simpleicons.org/notion/ffffff" height="30" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" />
   &nbsp;
