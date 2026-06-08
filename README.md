@@ -12,15 +12,6 @@
 
 ---
 
-### 🧠 About me
-
-- 🎓 Studying Computer Science at **Universidad Nacional Autónoma de Honduras (UNAH)**
-- 🔭 Currently working on **MoneyMap** (personal finance app) and **ORICYP** (research portal for CSUCA)
-- ⚡ I enjoy building full-stack web apps, automating things with n8n, and breaking games with AHK macros
-- 🎮 Dark Souls 2 & Minecraft enjoyer
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -97,7 +88,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" height="30" alt="Trello" title="Trello" />
 </p>
 
-> 🧩 Also comfortable with: **TanStack Query / Table**, **n8n**, **Supabase RLS & Edge Functions**, **Hugging Face Spaces**
+> 🧩 Also comfortable with: **TanStack Query, **n8n**, **Hugging Face Spaces**
 
 ---
 
