@@ -2,7 +2,7 @@
 
 # Hey, I'm Alexander 👋
 
-**Licenciado en Informática Administrativa - UNAH · Desarrollador y Diseñador de ORICYP, el Observatorio Regional de Investigación y Ciencia del CSUCA · Desarrollador Full-Stack**
+**Licenciado en Informática Administrativa - UNAH · Desarrollador y Diseñador de ORICYP, el Observatorio Regional de Investigación CSUCA · Desarrollador Full-Stack**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-suazo-44566b276)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aleexqnder7919@gmail.com)
