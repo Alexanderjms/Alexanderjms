@@ -75,7 +75,7 @@
 **Also use**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="LaTeX" title="LaTeX" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-plain.svg" height="30" alt="LaTeX" title="LaTeX" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="Markdown" title="Markdown" />
   &nbsp;
