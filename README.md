@@ -25,7 +25,7 @@
   &nbsp;
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" />
+  <img src="https://cdn.simpleicons.org/css3-alt/1572B6" height="30" />
 </p>
 
 ### Frontend
@@ -33,7 +33,7 @@
 <p>
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="30" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" />
   &nbsp;
@@ -69,13 +69,13 @@
   &nbsp;
   <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="30" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" />
+  <img src="https://cdn.simpleicons.org/vscode/007ACC" height="30" />
 </p>
 
 ### Productivity & Design
 
 <p>
-  <img src="https://cdn.simpleicons.org/notion/ffffff" height="30" />
+  <img src="https://cdn.simpleicons.org/notion/000000" height="30" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" />
   &nbsp;
