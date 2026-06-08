@@ -12,9 +12,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
 </p>
 
-**Frontend**
+### Frontend
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" />
 </p>
 
-**Backend & Databases**
+### Backend & Databases
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" />
@@ -54,14 +54,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="30" />
 </p>
 
-**DevOps & Tools**
+### DevOps & Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
   &nbsp;
@@ -70,16 +66,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" height="30" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/gitlab/FCA121" height="30" />
 </p>
 
-**Productivity & Design**
+### Productivity & Design
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/notion/000000" height="30" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" />
 </p>
 
 > 🧩 Also comfortable with: **TanStack Query, **n8n**, **Hugging Face Spaces**
