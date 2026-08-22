@@ -2,21 +2,19 @@
 
 # Hey, I'm Alexander 👋
 
-### Full-Stack Developer · UI Lover · Builder
+**Full-Stack Developer · UI/UX · Lic. en Informática Administrativa**
 
 Desarrollador y diseñador de **ORICYP**, el Observatorio Regional de Investigación del **CSUCA**.
 
-Licenciado en **Informática Administrativa — UNAH** 🇭🇳
+<br>
+
+<img src="./assets/frog-coding.gif" width="500" alt="frog coding"/>
 
 <br>
 
-<img src="TU_GIF_AQUI" width="500" alt="frog coding at computer"/>
+*probably coding something I don't need at 2am*
 
-<br>
-
-*"probably coding something I don't need at 2am"*
-
-<br>
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alexander-suazo-44566b276)
 [![Email](https://img.shields.io/badge/Email-111111?style=flat-square\&logo=gmail\&logoColor=white)](mailto:aleexqnder7919@gmail.com)
@@ -33,8 +31,20 @@ const alexander = {
   location: "Tegucigalpa, Honduras 🇭🇳",
   role: "Full-Stack Developer",
   currentWork: "ORICYP — CSUCA",
-  interests: ["Web Development", "UI/UX", "Open Source", "AI"],
-  currentlyLearning: ["Better architecture", "AI tools", "English"],
+
+  interests: [
+    "Web Development",
+    "UI/UX",
+    "Artificial Intelligence",
+    "Open Source"
+  ],
+
+  currentlyLearning: [
+    "Software Architecture",
+    "AI & Automation",
+    "English"
+  ],
+
   funFact: "I will redesign the UI before fixing the bug."
 };
 ```
@@ -45,11 +55,7 @@ const alexander = {
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,astro,tailwind,bootstrap,django,postgres,mysql,supabase,docker,git,github,gitlab,linux,figma,vscode&perline=11" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 `TanStack Query` · `n8n` · `Hugging Face` · `DigitalOcean` · `Notion` · `Trello`
 
@@ -57,41 +63,29 @@ const alexander = {
 
 ---
 
-## What I like building
+## What I build
 
-🌐 **Web applications** — interfaces that feel fast, clean and intentional.
+🌐 **Web Applications** — modern, responsive and scalable interfaces.
 
-🎨 **UI & design** — I care probably a little too much about spacing.
+🎨 **UI/UX** — interfaces where design and functionality actually work together.
 
-⚙️ **Full-stack projects** — from database schemas to the last pixel.
+⚙️ **Full-Stack Systems** — from database architecture to the last pixel.
 
-🤖 **AI experiments** — local models, agents, automation and whatever interesting tool appeared this week.
+🤖 **AI & Automation** — experimenting with models, agents, workflows and local AI.
 
 ---
 
-## Current main project
+## Currently working on
 
 ### 🔭 ORICYP
 
 **Observatorio Regional de Investigación del CSUCA**
 
-A regional platform for managing and visualizing research information across Central American universities.
+Regional platform designed to manage, organize and visualize research information across Central American universities.
 
 `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase` · `Docker`
 
 ---
-
-## When I'm not coding
-
-<div align="center">
-
-<img height="140" src="https://i.pinimg.com/1200x/c6/d6/91/c6d6916184b680b2a2d6c93341dff6c8.jpg" />
-<img height="140" src="https://i.pinimg.com/originals/69/3f/a2/693fa2d73acc65ca6e4796ae18fdcc0a.gif" />
-<img height="140" src="https://i.pinimg.com/736x/31/de/be/31debe06dde4ed9d0e405102d04627ae.jpg" />
-
-</div>
-
-<br>
 
 <div align="center">
 
@@ -99,6 +93,6 @@ A regional platform for managing and visualizing research information across Cen
 code → break something → fix it → redesign it → repeat
 ```
 
-<sub>made with ☕ somewhere in Tegucigalpa</sub>
+<sub>made with ☕ somewhere in Tegucigalpa 🇭🇳</sub>
 
 </div>
