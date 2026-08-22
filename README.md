@@ -6,7 +6,9 @@
 
 Desarrollo web · UI/UX · Sistemas de información
 
-<br>
+**https://alexqnder-portfolio.vercel.app/**
+
+<br><br>
 
 <img src="./assets/coding.gif" width="480" alt="coding">
 
@@ -38,18 +40,5 @@ Lic. en Informática Administrativa — UNAH
 <img src="https://skillicons.dev/icons?i=notion,obsidian&perline=12" />
 
 <br><br>
-
-
-</div>
-
-
-### `$ links`
-
-```txt
-portfolio  → alexqnder-portfolio.vercel.app
-github     → github.com/Alexanderjms
-```
-
-<div align="center">
 
 </div>
