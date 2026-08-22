@@ -1,10 +1,10 @@
 <div align="center">
 
-# Alexander Suazo
+# Hey, im Alexander Suazo 👋
 
 **Desarrollador y Diseñador de ORICYP — Observatorio Regional de Investigación CSUCA**
 
-Desarrollo web · UI/UX · Sistemas de información
+Frontend Developer · UI/UX · Sistemas de información
 
 **https://alexqnder-portfolio.vercel.app/**
 
