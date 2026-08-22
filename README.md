@@ -39,20 +39,8 @@ Lic. en Informática Administrativa — UNAH
 
 <br><br>
 
-`n8n` · `Railway` · `Turso`
 
 </div>
-
----
-
-### `$ workflow`
-
-```txt
-Agile       → Scrum · Kanban
-Management  → Jira · ClickUp · Trello
-DevOps      → Docker · Cloudflare · Railway
-Database    → PostgreSQL · MySQL · MongoDB · SQLite · Turso
-```
 
 
 ### `$ links`
