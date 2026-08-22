@@ -12,10 +12,6 @@ Desarrollo web · UI/UX · Sistemas de información
 
 <br>
 
-
-
-\
-
 </div>
 
 ---
@@ -27,12 +23,7 @@ Alexander Suazo
 Tegucigalpa, Honduras 🇭🇳
 
 Lic. en Informática Administrativa — UNAH
-Desarrollador & Diseñador de ORICYP — CSUCA
 ```
-
-Me gusta construir productos web completos, especialmente cuando puedo trabajar tanto en la lógica como en la interfaz y la experiencia de usuario.
-
-Actualmente gran parte de mi trabajo gira alrededor de **ORICYP**, una plataforma regional para la gestión y visualización de información de investigación de las universidades miembros del CSUCA.
 
 ---
 
@@ -40,33 +31,29 @@ Actualmente gran parte de mi trabajo gira alrededor de **ORICYP**, una plataform
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,bootstrap,materialui,vue,angular,svelte,redux,reactquery,nodejs,express,nestjs,django,flask,fastapi,graphql,prisma,postgres,mysql,mongodb,supabase,firebase,docker,git,github,gitlab,linux,figma,vscode&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,nextjs,astro,django,tailwind,bootstrap,mongodb,mysql,postgres,sqlite,supabase,firebase,docker,git,github,gitlab,bitbucket,cloudflare&perline=12" />
 
 <br><br>
 
-`TanStack Query` · `n8n` · `DigitalOcean` · `Hugging Face`
+<img src="https://skillicons.dev/icons?i=notion,obsidian&perline=12" />
+
+<br><br>
+
+`n8n` · `Railway` · `Turso`
 
 </div>
 
 ---
 
-### `$ current`
+### `$ workflow`
 
-```yaml
-project: ORICYP
-organization: CSUCA
-role:
-  - Developer
-  - UI/UX Designer
-
-focus:
-  - Web Development
-  - Interface Design
-  - Databases
-  - AI & Automation
+```txt
+Agile       → Scrum · Kanban
+Management  → Jira · ClickUp · Trello
+DevOps      → Docker · Cloudflare · Railway
+Database    → PostgreSQL · MySQL · MongoDB · SQLite · Turso
 ```
 
----
 
 ### `$ links`
 
@@ -76,7 +63,5 @@ github     → github.com/Alexanderjms
 ```
 
 <div align="center">
-
-<sub>alexander@localhost:~$ █</sub>
 
 </div>
