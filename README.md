@@ -1,98 +1,82 @@
 <div align="center">
 
-# Hey, I'm Alexander 👋
+# Alexander Suazo
 
-**Full-Stack Developer · UI/UX · Lic. en Informática Administrativa**
+**Desarrollador y Diseñador de ORICYP — Observatorio Regional de Investigación CSUCA**
 
-Desarrollador y diseñador de **ORICYP**, el Observatorio Regional de Investigación del **CSUCA**.
-
-<br>
-
-<img src="./assets/frog-coding.gif" width="500" alt="frog coding"/>
+Desarrollo web · UI/UX · Sistemas de información
 
 <br>
 
-*probably coding something I don't need at 2am*
+<img src="./assets/coding.gif" width="480" alt="coding">
 
-<br><br>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alexander-suazo-44566b276)
-[![Email](https://img.shields.io/badge/Email-111111?style=flat-square\&logo=gmail\&logoColor=white)](mailto:aleexqnder7919@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-111111?style=flat-square\&logo=discord\&logoColor=white)](https://discord.com/users/_alexjsm_)
+
+
+\
 
 </div>
 
 ---
 
-## About me
+### `$ whoami`
 
-```ts
-const alexander = {
-  location: "Tegucigalpa, Honduras 🇭🇳",
-  role: "Full-Stack Developer",
-  currentWork: "ORICYP — CSUCA",
+```txt
+Alexander Suazo
+Tegucigalpa, Honduras 🇭🇳
 
-  interests: [
-    "Web Development",
-    "UI/UX",
-    "Artificial Intelligence",
-    "Open Source"
-  ],
-
-  currentlyLearning: [
-    "Software Architecture",
-    "AI & Automation",
-    "English"
-  ],
-
-  funFact: "I will redesign the UI before fixing the bug."
-};
+Lic. en Informática Administrativa — UNAH
+Desarrollador & Diseñador de ORICYP — CSUCA
 ```
 
-## Tech
+Me gusta construir productos web completos, especialmente cuando puedo trabajar tanto en la lógica como en la interfaz y la experiencia de usuario.
+
+Actualmente gran parte de mi trabajo gira alrededor de **ORICYP**, una plataforma regional para la gestión y visualización de información de investigación de las universidades miembros del CSUCA.
+
+---
+
+### `$ stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,astro,tailwind,bootstrap,django,postgres,mysql,supabase,docker,git,github,gitlab,linux,figma,vscode&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,bootstrap,materialui,vue,angular,svelte,redux,reactquery,nodejs,express,nestjs,django,flask,fastapi,graphql,prisma,postgres,mysql,mongodb,supabase,firebase,docker,git,github,gitlab,linux,figma,vscode&perline=10" />
 
 <br><br>
 
-`TanStack Query` · `n8n` · `Hugging Face` · `DigitalOcean` · `Notion` · `Trello`
+`TanStack Query` · `n8n` · `DigitalOcean` · `Hugging Face`
 
 </div>
 
 ---
 
-## What I build
+### `$ current`
 
-🌐 **Web Applications** — modern, responsive and scalable interfaces.
+```yaml
+project: ORICYP
+organization: CSUCA
+role:
+  - Developer
+  - UI/UX Designer
 
-🎨 **UI/UX** — interfaces where design and functionality actually work together.
-
-⚙️ **Full-Stack Systems** — from database architecture to the last pixel.
-
-🤖 **AI & Automation** — experimenting with models, agents, workflows and local AI.
-
----
-
-## Currently working on
-
-### 🔭 ORICYP
-
-**Observatorio Regional de Investigación del CSUCA**
-
-Regional platform designed to manage, organize and visualize research information across Central American universities.
-
-`Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase` · `Docker`
+focus:
+  - Web Development
+  - Interface Design
+  - Databases
+  - AI & Automation
+```
 
 ---
+
+### `$ links`
+
+```txt
+portfolio  → alexqnder-portfolio.vercel.app
+github     → github.com/Alexanderjms
+```
 
 <div align="center">
 
-```text
-code → break something → fix it → redesign it → repeat
-```
-
-<sub>made with ☕ somewhere in Tegucigalpa 🇭🇳</sub>
+<sub>alexander@localhost:~$ █</sub>
 
 </div>
