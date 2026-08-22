@@ -10,10 +10,6 @@ Frontend Developer · UI/UX · Sistemas de información
 
 <br><br>
 
-<img src="./assets/coding.png" width="480" alt="coding">
-
-<br>
-
 </div>
 
 ---
