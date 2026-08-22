@@ -10,7 +10,7 @@ Frontend Developer · UI/UX · Sistemas de información
 
 <br><br>
 
-<img src="./assets/coding.gif" width="480" alt="coding">
+<img src="./assets/coding.png" width="480" alt="coding">
 
 <br>
 
@@ -33,11 +33,7 @@ Lic. en Informática Administrativa — UNAH
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,nextjs,astro,django,tailwind,bootstrap,mongodb,mysql,postgres,sqlite,supabase,firebase,docker,git,github,gitlab,bitbucket,cloudflare&perline=12" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=notion,obsidian&perline=12" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,nextjs,astro,django,tailwind,bootstrap,mongodb,mysql,postgres,sqlite,supabase,firebase,docker,git,github,gitlab,bitbucket,cloudflare,notion,obsidian&perline=13" />
 
 <br><br>
 
