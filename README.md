@@ -2,101 +2,103 @@
 
 # Hey, I'm Alexander 👋
 
-**Licenciado en Informática Administrativa - UNAH · Desarrollador y Diseñador de ORICYP, el Observatorio Regional de Investigación CSUCA · Desarrollador Full-Stack**
+### Full-Stack Developer · UI Lover · Builder
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-suazo-44566b276)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aleexqnder7919@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/_alexjsm_)
+Desarrollador y diseñador de **ORICYP**, el Observatorio Regional de Investigación del **CSUCA**.
+
+Licenciado en **Informática Administrativa — UNAH** 🇭🇳
+
+<br>
+
+<img src="TU_GIF_AQUI" width="500" alt="frog coding at computer"/>
+
+<br>
+
+*"probably coding something I don't need at 2am"*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alexander-suazo-44566b276)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square\&logo=gmail\&logoColor=white)](mailto:aleexqnder7919@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-111111?style=flat-square\&logo=discord\&logoColor=white)](https://discord.com/users/_alexjsm_)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## About me
 
-### Languages
+```ts
+const alexander = {
+  location: "Tegucigalpa, Honduras 🇭🇳",
+  role: "Full-Stack Developer",
+  currentWork: "ORICYP — CSUCA",
+  interests: ["Web Development", "UI/UX", "Open Source", "AI"],
+  currentlyLearning: ["Better architecture", "AI tools", "English"],
+  funFact: "I will redesign the UI before fixing the bug."
+};
+```
 
-<p>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/css3-alt/1572B6" height="30" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" />
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://cdn.simpleicons.org/django/092E20" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" />
-</p>
-
-### DevOps & Tools
-
-<p>
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/github/181717" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/gitlab/FCA121" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/vscode/007ACC" height="30" />
-</p>
-
-### Productivity & Design
-
-<p>
-  <img src="https://cdn.simpleicons.org/notion/000000" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="30" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" />
-</p>
-
-> 🧩 Also comfortable with: **TanStack Query, **n8n**, **Hugging Face Spaces**
-
----
-
-### 🎨 Vibe
-
-<p>
-  <img height="150" src="https://i.pinimg.com/1200x/c6/d6/91/c6d6916184b680b2a2d6c93341dff6c8.jpg" />
-  <img height="150" src="https://i.pinimg.com/originals/69/3f/a2/693fa2d73acc65ca6e4796ae18fdcc0a.gif" />
-  <img height="150" src="https://i.pinimg.com/736x/31/de/be/31debe06dde4ed9d0e405102d04627ae.jpg" />
-  <img height="150" src="https://i.pinimg.com/736x/55/36/2d/55362ddf21d65ad9d81a576a52c4d430.jpg" />
-</p>
-
----
+## Tech
 
 <div align="center">
-  <sub>Made with ☕ somewhere in Tegucigalpa</sub>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,astro,tailwind,bootstrap,django,postgres,mysql,supabase,docker,git,github,gitlab,linux,figma,vscode&perline=11" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`TanStack Query` · `n8n` · `Hugging Face` · `DigitalOcean` · `Notion` · `Trello`
+
+</div>
+
+---
+
+## What I like building
+
+🌐 **Web applications** — interfaces that feel fast, clean and intentional.
+
+🎨 **UI & design** — I care probably a little too much about spacing.
+
+⚙️ **Full-stack projects** — from database schemas to the last pixel.
+
+🤖 **AI experiments** — local models, agents, automation and whatever interesting tool appeared this week.
+
+---
+
+## Current main project
+
+### 🔭 ORICYP
+
+**Observatorio Regional de Investigación del CSUCA**
+
+A regional platform for managing and visualizing research information across Central American universities.
+
+`Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase` · `Docker`
+
+---
+
+## When I'm not coding
+
+<div align="center">
+
+<img height="140" src="https://i.pinimg.com/1200x/c6/d6/91/c6d6916184b680b2a2d6c93341dff6c8.jpg" />
+<img height="140" src="https://i.pinimg.com/originals/69/3f/a2/693fa2d73acc65ca6e4796ae18fdcc0a.gif" />
+<img height="140" src="https://i.pinimg.com/736x/31/de/be/31debe06dde4ed9d0e405102d04627ae.jpg" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+code → break something → fix it → redesign it → repeat
+```
+
+<sub>made with ☕ somewhere in Tegucigalpa</sub>
+
 </div>
