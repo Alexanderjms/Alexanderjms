@@ -1,13 +1,12 @@
 <div align="center">
 
-# Hey, im Alexander Suazo 👋
+# Hey, I'm Alexander Suazo 👋
 
 **Desarrollador y Diseñador de ORICYP — Observatorio Regional de Investigación CSUCA**
 
 Frontend Developer · UI/UX · Sistemas de información
 
-[**https://alexqnder-portfolio.vercel.app/**](https://alexqnder-portfolio.vercel.app/?utm_source=github
-)
+[**https://www.alexqnder.space/portfolio**](https://www.alexqnder.space/portfolio?utm_source=github)
 
 <br><br>
 
