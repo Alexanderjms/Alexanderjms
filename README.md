@@ -4,7 +4,7 @@
 
 **Desarrollador y Diseñador de ORICYP — Observatorio Regional de Investigación CSUCA**
 
-Frontend Developer · UI/UX · Sistemas de información
+· Full Stack Developer ·
 
 [**https://www.alexqnder.space/portfolio**](https://www.alexqnder.space/portfolio?utm_source=github)
 
